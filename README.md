@@ -5,9 +5,9 @@
 # identity.yaml
 
 name         : Mayuri Santosh Futane
-alias        : MJSF-21
-based_in     : Chhatrapati Sambhajinagar, India 🇮🇳
-role         : Computer Science Undergrad · Java Developer · Tech Team Lead
+alias        : MJSF-21          
+based_in     : Chhatrapati Sambhajinagar, India 🇮🇳  |  Remote-ready
+role         : Computer Science Undergrad  ·  Java Developer  ·  Tech Team Lead
 core_skills  :
   languages    : Java (Core) · Python · C · SQL
   foundations  : Data Structures & Algorithms · Object-Oriented Programming (OOP) · Operating Systems
@@ -18,88 +18,110 @@ currently_learning :
   - Advanced Backend Architectures & Spring Boot Framework
   - Enterprise Full-Stack Engineering (React + Java Ecosystem)
   - Cloud Infrastructure Applications
-leadership   : T&P Coordinator · Technical Head (SAT Club) · Student Council Member
-honors       : AFE-FFE Scholar · FLY-Scholar (CMI) · NPTEL Certified (IIT-Kanpur/Kharagpur)
+leadership   : T&P Coordinator  ·  Technical Head (SAT Club)  ·  Student Council Member
+honors       : AFE-FFE Scholar  ·  FLY-Scholar (CMI)  ·  NPTEL Certified (IIT)
+streak       : Active GitHub contribution streak 🔥
 philosophy   : "Simplicity is the soul of efficiency — build with purpose."
-status       : Open to Software Engineering Internships & Technical Collaborations
+goal         : Engineer scalable, reliable, and user-centric systems
+status       : Open to software engineering internships · Tech roles · Collaborations
 
 ---
 
 "Simplicity is the soul of efficiency." — Mayuri Futane
 
 💜 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
-🧠 "The best way to predict the future is to invent it." — Alan Kay
+🧠 "The measure of intelligence is the ability to change." — Albert Einstein
 🔥 "First, solve the problem. Then, write the code." — John Johnson
 🚀 "In theory there is no difference between theory and practice. In practice there is." — Yogi Berra
 
 ---
 
-### 🧬 The Profile
-I am a Computer Science & Engineering undergraduate focused on building solid technical fundamentals without taking shortcuts. Whether it's developing desktop engines like a **Java Notepad** from scratch to master lower-level File I/O workflows, or engineering campus-wide corporate hiring logistics as a **T&P Coordinator**, I prioritize clean structural logic, efficient execution, and collaborative development.
+I am a Computer Science & Engineering undergraduate focused on building solid technical fundamentals without taking shortcuts. Whether it's developing desktop engines like a Java Notepad from scratch to master lower-level File I/O workflows, or engineering campus-wide corporate hiring logistics as a T&P Coordinator, I prioritize clean structural logic, efficient execution, and collaborative development.
 
-🔬 **Focus Area** — Core Java · Object-Oriented Architecture · Problem Solving
-⚙️ **Build Style** — Clean, modular code, OOP-driven, built to be expanded
-🏆 **Academic Record** — 8.101 CGPA | Distinction Standing
-
----
-
-### 🛠️ Core Engineering Stack
-
-⚙️ **Languages & Query**
-`Java` · `Python` · `C` · `SQL`
-
-📦 **Core Foundations**
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `Problem Solving`
-
-📊 **Data Engineering & Analytics**
-`NumPy` · `Pandas` · `Exploratory Data Analysis (EDA)`
-
-🌐 **Web & Infrastructure Tools**
-`HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub` · `VS Code` · `AWS Educate`
+🔬 Focus Area — Core Java · Object-Oriented Architecture · Problem Solving
+⚙️ Build Style — Clean, modular code, OOP-driven, built to be expanded
+🏆 Academic Record — 8.101 CGPA | Distinction Standing
 
 ---
 
-### 🤖 Featured Project Ecosystem
+Languages
+       
+Core Java · Data Structures · OOP
 
-#### 📝 Desktop Notepad Engine
-"Understand how high-level code speaks to storage storage hardware."
-Built a functional desktop editor completely from the ground up using **Java Swing/AWT**. No enterprise framework abstractions—just native Core Java memory handling and file stream buffers to master how software writes directly to storage disks.
+     
+Web Basics · Frontend
 
-- **Interface** : Minimalist User-Centric GUI
-- **Architecture** : Event-Driven Programming
-- **Core Focus** : Event loop patterns, Buffer management, & File I/O Streams
-
-#### 🌐 Learning Platform Portal
-"Clean layout structures mapping seamless user experiences."
-An interactive web application engineered to systematically catalog, map, and render academic media content online. Focused heavily on minimizing navigation friction while managing version control using Git branching.
-
-- **Frontend** : Responsive Layout Architecture
-- **Controls** : HTML5 · CSS3 · Foundational JavaScript
-- **Workflow** : Git branching, Merge staging, & Code modularity
+     
+Tools · Infrastructure · Data
 
 ---
 
-### 💼 Leadership & Operations Matrix
+🤖 Core Engineering
 
-#### 🏢 Professional Workspace
-* **Outreach & Operations Intern | Aspire Institute India** *(Dec 2025 – Jan 2026)*
-  * Coordinated cross-functional operations and communications across 10+ global program cohorts.
-  * Selected into the prestigious global **Aspire Leaders Program** for advanced social impact and problem-solving workflows.
+📝 Desktop Notepad Engine
+"Understand how high-level code speaks to storage hardware"
+Built a functional desktop editor completely from the ground up using Java Swing/AWT. No enterprise framework abstractions—just native Core Java memory handling and file stream buffers to master how software writes directly to storage disks.
 
-#### 👥 Campus Leadership Commands
-* **Training & Placement Coordinator | GECA T&P Cell** *(Apr 2026 – Present)*
-  * Architecting institutional industry outreach, hiring workflows, and corporate readiness tracking.
-* **Technical Head | Student Alumni Team (SAT Club)** *(Aug 2025 – Present)*
-  * Spearheading technical community events and bridging code engagement between alumni networks and undergrads.
-* **Joint Alumni Connect | Computer Science Student Association** *(Aug 2025 – Present)*
-* **Coordinator | C Cube Coding Club** *(Apr 2025 – Present)*
-* **Class Ladies Representative | Member of Student Council** *(Sep 2024 – Aug 2025)*
+Interface   : Minimalist User-Centric GUI
+Architecture: Event-Driven Programming
+Core Focus  : Event loops · Buffer management
+File I/O    : Native stream pipelines
+
+ Java Swing AWT
+🌐 Learning Platform Portal
+"Clean layout structures mapping seamless user experiences"
+An interactive web application engineered to systematically catalog, map, and render academic media content online. Focused heavily on minimizing navigation friction while managing version control using Git branching layouts.
+
+Frontend    : Responsive Layout Architecture
+Controls    : HTML5 · CSS3 · JavaScript
+Workflow    : Git branching · Code modularity
+UX/UI       : Low-friction navigation indices
+
+ HTML5 CSS3 JavaScript
 
 ---
 
-### 📅 2025 - 2026 Milestone Timeline
+💼 Full-Stack · Operations & Leadership
 
-```text
+🎓 Training & Placement Command
+Architecting institutional industry outreach, corporate hiring workflows, logistics layouts, and student job-readiness frameworks under institutional cell oversight. GECA T&P Cell
+
+🏢 Corporate Outreach Interface
+Coordinated cross-functional operations and communications across 10+ global program cohorts during an active corporate engagement cycle. Aspire Institute India
+
+👥 Technical Head Command
+Spearheading technical community events, technical student chapters, and bridging code engagement between alumni networks and undergrads. SAT Club
+
+🌐 Joint Alumni Connect
+Managing branch-wide professional networks, structural meetups, and student communication portals. CS Student Association
+
+🔍 C Cube Hub
+Fostering a competitive coding culture, algorithmic training sprints, and technical problem-solving labs. Coding Club
+
+---
+
+🏅 Event Result Timeline
+
+🏅 Event Result Year
+🥇 GECA T&P Cell appointed Executive Placement Coordinator 2026
+🏅 Global Aspire Leaders Program selected Cohort Graduate 2026
+🏅 SAT Club Technical Head appointed Executive Lead 2025
+🌟 FLY-Scholar Competitiveness Mindset Institute Designation 2025
+📚 NPTEL IIT Certifications Core Analytics & Architecture Stamped 2025
+🚀 GECA Student Council elected Class Ladies Representative 2024
+
+---
+
+🔭 Implementing now Advanced Backend Frameworks & Spring Boot Systems
+🌱 Actively learning Cloud Infrastructure Applications, Enterprise React
+👯 Open to Corporate internship roles, open-source development, tech squads
+💬 Ask me about Core Java, Object-Oriented Design, Campus Operations
+🎯 Long-term goal Engineer highly stable architecture optimized for user-centric scale
+ mayurifutane0@gmail.com
+⚡ Honest fact My codebase design tracks edge-case bugs early — logic over luck
+
+---
+
 2026 ══════════════════════════════════════════════════════════════
 
   ◉  [APR]  💼  GECA T&P Coordinator — Appointed Executive
@@ -121,3 +143,45 @@ An interactive web application engineered to systematically catalog, map, and re
                 Maintaining academic excellence while leading campus teams
 
 ══════════════════════════════════════════════════════════════════
+
+---
+
+class MayuriFutane:
+    """
+    Computer Science Undergrad · Java Developer · Tech Team Lead
+    """
+
+    stack = ["Java", "Python", "C", "SQL", "Git"]
+
+    principles = {
+        "understanding"    : "Deep modular mastery over abstraction shortcuts",
+        "transparency"     : "Clean object-oriented rules > unreadable hacks",
+        "first_principles" : "Build from foundations, minimize runtime friction",
+        "efficiency"       : "Simplicity is the soul of structural performance",
+        "leadership"       : "Drive student execution and streamline systems",
+    }
+
+    def approach(self, problem):
+        steps = [
+            "Deconstruct problem down to logical units",
+            "Draft object model and architectural flow",
+            "Implement clean modular components",
+            "Optimize exceptions and execution lines",
+        ]
+        return f"Solved: {problem!r} — structural, reliable, clear"
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MJSF-21&show_icons=true&theme=tokyonight" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJSF-21&layout=compact&theme=tokyonight" height="175" />
+</p>
+
+---
+
+⚡ Find Me Online
+- **Email** : [futanemayuri0@gmail.com](mailto:futanemayuri0@gmail.com)
+- **LinkedIn** : [linkedin.com/in/mayuri-futane](https://linkedin.com/in/mayuri-futane)
+- **LeetCode** : [leetcode.com/u/MJSF-21](https://leetcode.com/u/MJSF-21)
+
+*"First principles first, then production." — Let's connect and build something scalable.*
